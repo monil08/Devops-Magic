@@ -2,6 +2,10 @@
 
 **Series:** DevOps for Lazy People 
 
+<p align="center">
+  <img src="https://github.com/codewithmonil/Devops-Magic/blob/main/Project-Architecture.jpg?raw=true" alt="Project Architecture">
+</p>
+
 ## What This Covers
 
 Setting up a complete local Kubernetes development environment on Windows 11. 
