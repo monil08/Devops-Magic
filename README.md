@@ -51,7 +51,7 @@ Traditional deployment processes are:
 | Category | Technology |
 |----------|-----------|
 | **Application** | Python 3.11, Flask 3.0.0 |
-| **Containerization** | Docker, Multi-stage Builds |
+| **Containerization** | Docker |
 | **Container Registry** | Docker Hub |
 | **CI/CD** | GitHub Actions |
 | **Orchestration** | Kubernetes (kind v1.27.3) |
