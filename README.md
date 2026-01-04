@@ -14,6 +14,9 @@ A complete end-to-end CI/CD pipeline demonstrating modern DevOps practices with 
 
 This project demonstrates a **production-ready CI/CD pipeline** where a simple code change triggers automated testing, builds a Docker image, pushes it to Docker Hub, and deploys it to a Kubernetes cluster—all with minimal manual intervention.
 
+<p align="center">
+  <img src="https://github.com/codewithmonil/Devops-Magic/blob/main/Project-Architecture.jpg?raw=true" alt="Project Architecture">
+</p>
 
 ---
 
