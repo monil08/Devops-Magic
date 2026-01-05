@@ -14,6 +14,9 @@ A complete end-to-end CI/CD pipeline demonstrating modern DevOps practices with 
 
 This project demonstrates a **production-ready CI/CD pipeline** where a simple code change triggers automated testing, builds a Docker image, pushes it to Docker Hub, and deploys it to a Kubernetes cluster—all with minimal manual intervention.
 
+<p align="center">
+  <img src="https://github.com/codewithmonil/Devops-Magic/blob/main/Project-Architecture.jpg?raw=true" alt="Project Architecture">
+</p>
 
 ---
 
@@ -51,7 +54,7 @@ Traditional deployment processes are:
 | Category | Technology |
 |----------|-----------|
 | **Application** | Python 3.11, Flask 3.0.0 |
-| **Containerization** | Docker, Multi-stage Builds |
+| **Containerization** | Docker |
 | **Container Registry** | Docker Hub |
 | **CI/CD** | GitHub Actions |
 | **Orchestration** | Kubernetes (kind v1.27.3) |

@@ -7,6 +7,10 @@
 Setting up a complete local Kubernetes development environment on Windows 11. 
 You'll install Docker Desktop, kubectl (Kubernetes command-line tool), and kind (Kubernetes in Docker) to run a local cluster.
 
+<p align="center">
+  <img src="https://github.com/codewithmonil/Devops-Magic/blob/main/Project-Architecture.jpg?raw=true" alt="Project Architecture">
+</p>
+
 ## The Stack
 
 **Docker Desktop** - Runs containers on Windows, includes WSL 2 for Linux compatibility  

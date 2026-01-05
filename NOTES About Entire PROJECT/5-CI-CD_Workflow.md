@@ -11,6 +11,10 @@ This sets up GitHub Actions to automate your entire deployment pipeline. Every t
 
 All of this happens automatically. Push code, grab coffee, come back to a deployed app.
 
+<p align="center">
+  <img src="https://github.com/codewithmonil/Devops-Magic/blob/main/Project-Architecture.jpg?raw=true" alt="Project Architecture">
+</p>
+
 ## 📁 Project Structure
 
 ```
